@@ -2,7 +2,7 @@
 - 👀 I’m interested in in Audio signal processing (DSP)
 - 🌱 I’m currently learning .NET and TensorFlow
 - 💞️ I’m looking to collaborate on Web Applications, AI,  Django, Java or something related with audio and DSP
-- 📫 How to reach me cristianpedraza96@outlook.com or cristianpedraza96@gmail.com
+- 📫 How to reach me pedrazahoyoscristiandavid@gmail.com
 
 <!---
 CrisDev96/CrisDev96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
